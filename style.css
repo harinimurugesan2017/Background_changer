@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100px;
+    width: 100%;
+    border: 1px solid black;
+}
+#h1_color{
+    text-align: left;
+    display:inline-block;
+    position: absolute;
+    top:40px;
+}
+#wrap{
+    width: 100%;
+
+}
+#h1_hexa{
+    text-align: right;
+    display:inline-block;
+    position: absolute;
+    right:175px;
+    top:40px;
+}
+button {
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin: 200px 300px 250px 470px;
+}
+button:hover{
+    cursor: pointer;
+}
